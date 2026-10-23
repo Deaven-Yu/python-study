@@ -1,0 +1,11 @@
+
+print(1+2)
+print("1+2")
+print(10*5)
+print("10*5")
+print("Hello"*3)
+print(type(10))
+print(type("Hello"))
+print(type(10.5))
+print(10+5)
+print("10"+"5")
